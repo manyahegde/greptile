@@ -30,7 +30,7 @@ const Navbar = ({
     },
     {
       label: "Resources",
-      path: "/api/run-JnanKosh-app", // Adjust this path
+      path: "/api/run-jnankosh-app", // Adjust this path
     },
   ];
   
